@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Restaurante>
+        <RecetasCocina>
+         <RecetasPorPersona>
+              <Para4personas>
+                      <SopaDeCebolla>
+                          <Ingredientes>
+                          <Cebolla>
+                                        <Cantidad>
+                                          • 1 Kg.
+                                        </Cantidad>
+                                  
+                          </Cebolla>
+                          <CaldoDeCarne>
+                                       <Cantidad>
+                                          • 2L
+                                        </Cantidad>
+                          </CaldoDeCarne>
+                          
+                          <Mantequilla>
+                          
+                                      <Cantidad>
+                                        • 100 gr. 
+                                      </Cantidad>
+                          </Mantequilla>
+                          <Harina>
+                                     <Cantidad>
+                                        • 1 cucharada 
+                                      </Cantidad>
+                          </Harina>
+                          <Queso>
+                               <Tipo>
+                               emmental suizo o gruyére rallado. 
+                               </Tipo>
+                                      <Cantidad>
+                                        • 100 gr
+                                      </Cantidad>
+                          </Queso>
+                         <Pan>
+                                <Tipo>
+                                 tostado en rebanadas.
+                                </Tipo>
+                         </Pan> 
+                          <Tomillo>
+                          </Tomillo> 
+                          <Hoja>
+                                <Tipo>
+                                de laurel
+                                </Tipo>
+                                     <Cantidad>
+                                        • 1 hoja 
+                                     </Cantidad> 
+                          </Hoja>
+                         <Pimienta>
+                         </Pimienta> 
+                          
+                          </Ingredientes>
+                          <Proceso>
+                              <Paso1>
+                                      • Pelar y partir las cebollas en rodajas finas. 
+                              </Paso1>
+                              <Paso2>
+                                      • Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse. 
+                              </Paso2>
+                              <Paso3>
+                                      • Añadir la harina sin dejar de remover.
+                              </Paso3>
+                              <Paso4>
+                                      • Ponerlo en una cazuela con el caldo, el tomillo y el laurel. 
+                              </Paso4>
+                              <Paso5>
+                                      • Dejarlo cocer a fuego lento durante unos 15 minutos.
+                              </Paso5>
+                              <Paso6>
+                                       Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno
+                              </Paso6>
+                        </Proceso>
+              
+                      </SopaDeCebolla>
+              </Para4personas>
+         </RecetasPorPersona>
+          
+        </RecetasCocina>
+</Restaurante>

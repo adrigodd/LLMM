@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<marcador>
+<competicion id="1">
+<nombre>LFP 1 DIVISION</nombre>
+<fase id="0"> </fase>
+<jornada id="18" jornadaAnterior="https://www.marca.com/marcador/futbol/iphone/1/2022_23/fase0/jornada_17/marcador.xml" jornadaSiguiente="https://www.marca.com/marcador/futbol/iphone/1/2022_23/fase0/jornada_19/marcador.xml"/>
+<temporada>2022_23</temporada>
+<grupos>
+<grupo id="1">
+<eventos>
+<evento id="524989">
+<fecha>20/01/2023 21:00</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="114">Mallorca</equipolocal>
+<equipovisitante id="6">Celta</equipovisitante>
+<resultadolocal>1</resultadolocal>
+<resultadovisitante>0</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/181.png</escudoLocal>
+<escudoVisitante>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/176.png</escudoVisitante>
+<tv/>
+<estadisticas/>
+<alineaciones>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/mal_cel/alineaciones.html</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/mal_cel/directo.xml</enlaceDirecto>
+</evento>
+<evento id="524990">
+<fecha>21/01/2023 14:00</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="13">Rayo</equipolocal>
+<equipovisitante id="15">R. Sociedad</equipovisitante>
+<resultadolocal>0</resultadolocal>
+<resultadovisitante>2</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/184.png</escudoLocal>
+<escudoVisitante>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/188.png</escudoVisitante>
+<tv/>
+<estadisticas/>
+<alineaciones>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/ray_rso/alineaciones.html</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/ray_rso/directo.xml</enlaceDirecto>
+</evento>
+<evento id="524993">
+<fecha>21/01/2023 16:15</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="9">Espanyol</equipolocal>
+<equipovisitante id="5">Betis</equipovisitante>
+<resultadolocal>1</resultadolocal>
+<resultadovisitante>0</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/177.png</escudoLocal>
+<escudoVisitante>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/185.png</escudoVisitante>
+<tv/>
+<estadisticas/>
+<alineaciones>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/esp_bet/alineaciones.html</alineaciones>
+<comentariosLectores/>
+<previacronica>-1</previacronica>
+<enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/esp_bet/directo.xml</enlaceDirecto>
+</evento>
+<evento id="524985">
+<fecha>21/01/2023 18:30</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="3">Atlético</equipolocal>
+<equipovisitante id="20">Valladolid</equipovisitante>
+<resultadolocal>3</resultadolocal>
+<resultadovisitante>0</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/175.png</escudoLocal>
+<escudoVisitante>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/192.png</escudoVisitante>
+<tv/>
+<estadisticas/>
+<alineaciones>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/atm_vad/alineaciones.html</alineaciones>
+<comentariosLectores/>
+<previacronica>-1</previacronica>
+<enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/atm_vad/directo.xml</enlaceDirecto>
+</evento>
+<evento id="524991">
+<fecha>21/01/2023 21:00</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="17">Sevilla</equipolocal>
+<equipovisitante id="197">Cádiz</equipovisitante>
+<resultadolocal>1</resultadolocal>
+<resultadovisitante>0</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/179.png</escudoLocal>
+<escudoVisitante>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/1737.png</escudoVisitante>
+<tv/>
+<estadisticas/>
+<alineaciones>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/sev_cad/alineaciones.html</alineaciones>
+<comentariosLectores/>
+<previacronica>-1</previacronica>
+<enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/sev_cad/directo.xml</enlaceDirecto>
+</evento>
+<evento id="524988">
+<fecha>22/01/2023 14:00</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="132">Villarreal</equipolocal>
+<equipovisitante id="302">Girona</equipovisitante>
+<resultadolocal>1</resultadolocal>
+<resultadovisitante>0</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/449.png</escudoLocal>
+<escudoVisitante>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/2893.png</escudoVisitante>
+<tv/>
+<estadisticas/>
+<alineaciones>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/vil_ger/alineaciones.html</alineaciones>
+<comentariosLectores/>
+<previacronica>-1</previacronica>
+<enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/vil_ger/directo.xml</enlaceDirecto>
+</evento>
+<evento id="524987">
+<fecha>22/01/2023 16:15</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="177">Elche</equipolocal>
+<equipovisitante id="117">Osasuna</equipovisitante>
+<resultadolocal>1</resultadolocal>
+<resultadovisitante>1</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/954.png</escudoLocal>
+<escudoVisitante>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/450.png</escudoVisitante>
+<tv/>
+<estadisticas/>
+<alineaciones>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/elc_osa/alineaciones.html</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/elc_osa/directo.xml</enlaceDirecto>
+</evento>
+<evento id="524986">
+<fecha>22/01/2023 18:30</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="4">Barcelona</equipolocal>
+<equipovisitante id="109">Getafe</equipovisitante>
+<resultadolocal>1</resultadolocal>
+<resultadovisitante>0</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/178.png</escudoLocal>
+<escudoVisitante>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/1450.png</escudoVisitante>
+<tv/>
+<estadisticas/>
+<alineaciones>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/bar_get/alineaciones.html</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/bar_get/directo.xml</enlaceDirecto>
+</evento>
+<evento id="524984">
+<fecha>22/01/2023 21:00</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="2">Athletic</equipolocal>
+<equipovisitante id="14">R. Madrid</equipovisitante>
+<resultadolocal>0</resultadolocal>
+<resultadovisitante>2</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/174.png</escudoLocal>
+<escudoVisitante>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/186.png</escudoVisitante>
+<tv/>
+<estadisticas/>
+<alineaciones>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/ath_rma/alineaciones.html</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/ath_rma/directo.xml</enlaceDirecto>
+</evento>
+<evento id="524992">
+<fecha>23/01/2023 21:00</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="21">Valencia</equipolocal>
+<equipovisitante id="94">Almería</equipovisitante>
+<resultadolocal>2</resultadolocal>
+<resultadovisitante>2</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/191.png</escudoLocal>
+<escudoVisitante>https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/1564.png</escudoVisitante>
+<tv/>
+<estadisticas/>
+<alineaciones>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/val_alm/alineaciones.html</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2022_23/la-liga/jornada_18/val_alm/directo.xml</enlaceDirecto>
+</evento>
+</eventos>
+<clasificacion>
+<team>
+<name>Barcelona*</name>
+<rank>1</rank>
+<points>44</points>
+<played>17</played>
+<won>14</won>
+<lost>1</lost>
+<drawn>2</drawn>
+<goals_scored>36</goals_scored>
+<goals_conceded>6</goals_conceded>
+</team>
+<team>
+<name>R. Madrid*</name>
+<rank>2</rank>
+<points>41</points>
+<played>17</played>
+<won>13</won>
+<lost>2</lost>
+<drawn>2</drawn>
+<goals_scored>38</goals_scored>
+<goals_conceded>16</goals_conceded>
+</team>
+<team>
+<name>R. Sociedad</name>
+<rank>3</rank>
+<points>38</points>
+<played>18</played>
+<won>12</won>
+<lost>4</lost>
+<drawn>2</drawn>
+<goals_scored>28</goals_scored>
+<goals_conceded>18</goals_conceded>
+</team>
+<team>
+<name>Atlético</name>
+<rank>4</rank>
+<points>31</points>
+<played>18</played>
+<won>9</won>
+<lost>5</lost>
+<drawn>4</drawn>
+<goals_scored>27</goals_scored>
+<goals_conceded>16</goals_conceded>
+</team>
+<team>
+<name>Villarreal</name>
+<rank>5</rank>
+<points>31</points>
+<played>18</played>
+<won>9</won>
+<lost>5</lost>
+<drawn>4</drawn>
+<goals_scored>21</goals_scored>
+<goals_conceded>13</goals_conceded>
+</team>
+<team>
+<name>Betis*</name>
+<rank>6</rank>
+<points>28</points>
+<played>17</played>
+<won>8</won>
+<lost>5</lost>
+<drawn>4</drawn>
+<goals_scored>19</goals_scored>
+<goals_conceded>14</goals_conceded>
+</team>
+<team>
+<name>Osasuna</name>
+<rank>7</rank>
+<points>28</points>
+<played>18</played>
+<won>8</won>
+<lost>6</lost>
+<drawn>4</drawn>
+<goals_scored>18</goals_scored>
+<goals_conceded>17</goals_conceded>
+</team>
+<team>
+<name>Athletic</name>
+<rank>8</rank>
+<points>26</points>
+<played>18</played>
+<won>7</won>
+<lost>6</lost>
+<drawn>5</drawn>
+<goals_scored>25</goals_scored>
+<goals_conceded>19</goals_conceded>
+</team>
+<team>
+<name>Rayo</name>
+<rank>9</rank>
+<points>26</points>
+<played>18</played>
+<won>7</won>
+<lost>6</lost>
+<drawn>5</drawn>
+<goals_scored>24</goals_scored>
+<goals_conceded>22</goals_conceded>
+</team>
+<team>
+<name>Mallorca</name>
+<rank>10</rank>
+<points>25</points>
+<played>18</played>
+<won>7</won>
+<lost>7</lost>
+<drawn>4</drawn>
+<goals_scored>15</goals_scored>
+<goals_conceded>16</goals_conceded>
+</team>
+<team>
+<name>Girona</name>
+<rank>11</rank>
+<points>21</points>
+<played>18</played>
+<won>5</won>
+<lost>7</lost>
+<drawn>6</drawn>
+<goals_scored>26</goals_scored>
+<goals_conceded>28</goals_conceded>
+</team>
+<team>
+<name>Valencia*</name>
+<rank>12</rank>
+<points>20</points>
+<played>17</played>
+<won>5</won>
+<lost>7</lost>
+<drawn>5</drawn>
+<goals_scored>25</goals_scored>
+<goals_conceded>20</goals_conceded>
+</team>
+<team>
+<name>Espanyol</name>
+<rank>13</rank>
+<points>20</points>
+<played>18</played>
+<won>4</won>
+<lost>6</lost>
+<drawn>8</drawn>
+<goals_scored>22</goals_scored>
+<goals_conceded>26</goals_conceded>
+</team>
+<team>
+<name>Almería</name>
+<rank>14</rank>
+<points>19</points>
+<played>18</played>
+<won>5</won>
+<lost>9</lost>
+<drawn>4</drawn>
+<goals_scored>20</goals_scored>
+<goals_conceded>28</goals_conceded>
+</team>
+<team>
+<name>Sevilla</name>
+<rank>15</rank>
+<points>18</points>
+<played>18</played>
+<won>4</won>
+<lost>8</lost>
+<drawn>6</drawn>
+<goals_scored>18</goals_scored>
+<goals_conceded>26</goals_conceded>
+</team>
+<team>
+<name>Getafe</name>
+<rank>16</rank>
+<points>17</points>
+<played>18</played>
+<won>4</won>
+<lost>9</lost>
+<drawn>5</drawn>
+<goals_scored>16</goals_scored>
+<goals_conceded>25</goals_conceded>
+</team>
+<team>
+<name>Celta</name>
+<rank>17</rank>
+<points>17</points>
+<played>18</played>
+<won>4</won>
+<lost>9</lost>
+<drawn>5</drawn>
+<goals_scored>17</goals_scored>
+<goals_conceded>29</goals_conceded>
+</team>
+<team>
+<name>Valladolid</name>
+<rank>18</rank>
+<points>17</points>
+<played>18</played>
+<won>5</won>
+<lost>11</lost>
+<drawn>2</drawn>
+<goals_scored>13</goals_scored>
+<goals_conceded>28</goals_conceded>
+</team>
+<team>
+<name>Cádiz</name>
+<rank>19</rank>
+<points>16</points>
+<played>18</played>
+<won>3</won>
+<lost>8</lost>
+<drawn>7</drawn>
+<goals_scored>12</goals_scored>
+<goals_conceded>29</goals_conceded>
+</team>
+<team>
+<name>Elche</name>
+<rank>20</rank>
+<points>6</points>
+<played>18</played>
+<won>0</won>
+<lost>12</lost>
+<drawn>6</drawn>
+<goals_scored>12</goals_scored>
+<goals_conceded>36</goals_conceded>
+</team>
+</clasificacion>
+</grupo>
+</grupos>
+</competicion>
+</marcador>

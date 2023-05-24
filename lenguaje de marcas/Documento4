@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE software[
+<!ELEMENT software (programa+)>
+<!ELEMENT software (titulo,precio,categoria,descripcion,departamentos)>
+<!ELEMENT programa (#PCDATA)>
+<!ELEMENT  (#PCDATA)>
+
+<software>
+<programa codigo="P1" version="16.0" año="2016" SO="Windows">
+<titulo>Microsof office 2026</titulo>
+<español />
+<precio>1500€</precio>
+<categoria>Ofimática</categoria>
+<descripcion>Paquete ofimático de microsoft</descripcion>
+<departamentos>
+<departamento>Sistemas</departamento>
+<departamento>Contabilidad</departamento>
+</departamentos>
+<web>www.microsorft.com</web>
+<caratula>imagen</caratula>
+</programa>
+</software>

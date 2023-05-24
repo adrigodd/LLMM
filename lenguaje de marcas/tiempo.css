@@ -1,0 +1,77 @@
+temperatura{
+    position: relative;
+    left: 100px;
+    top: 200px;
+    width: 300px;
+    display:block;
+
+
+}
+provincia{
+    position:absolute;
+    width:25px;
+    right:150px;
+    display:block;  
+}
+maxima{
+    position:absolute;
+    right: 100px;
+    top: 100px;
+}
+minima{
+    position:absolute;
+    right: 100px;
+    top: 150px;
+    display:block;
+}
+grados{
+    right: 100px;
+    top: 100px;
+
+ 
+}
+hora{
+    margin-right: 100px;
+    width: 300px;
+    display: block;
+}
+lugar{
+    position:absolute;
+    width:100px;
+    display:block;
+}
+fecha{
+    position:absolute;
+    right: 100px;
+    top: 50px;
+}
+predicciones{
+    position: absolute;
+    width: 300px;
+    left: 100px;
+    right: 100px;
+    
+}
+prediccion[tiempo="nube"]{
+    position:absolute;
+    width: 300px;
+ left: 100px;
+ top:-100px;
+   
+
+
+}
+prediccion[tiempo="sol"]{
+    position:absolute;
+    width: 300px;
+    left: 100px;
+   top:0px;
+
+}
+prediccion[tiempo="lluvia"]{
+    position:absolute;
+    width: 300px;
+    margin-left: 200px;
+    
+
+}

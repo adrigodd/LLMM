@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formulario de consulta</title>
+    </head>
+    <body>
+        <img src="formulario.jpg" height="125" width="125">
+        <br><br>
+        <form action="proceso.php" method="post">
+            <!--Datos personales-->
+            <fieldset>
+                <legend><b>Datos personales</b></legend>
+                <p>Nombre: <input type="test" name="nombre" size="45" autofocus></p>
+                <p>Correo electrónico: <input type="text" name="correo" size="45"></p>
+                <input type="checkbox" name="publicidad">
+                ¿Quieres que te enviemos <b>publicidad</b>
+            </fieldset>
+
+            <!--Temática de la consulta-->
+            <fieldset>
+                <legend><b>Temática y mes de vacaciones</b></legend>
+                <br>
+                <select name="opciones">
+                    <option value="1">Hotel</option>
+                    <option value="2">Avión</option>
+                    <option value="3">Paquete vacacional</option>
+                </select>
+                <br><br>
+                <input type="radio" name="elección"> Julio
+                <input type="radio" name="elección"> Agosto
+                <input type="radio" name="elección"> Septiembre
+            </fieldset>
+
+            <!--Texto de la consulta-->
+            <fieldset>
+                <legend><b>Consulta</b></legend>
+                <textarea cols="50" rows="4"></textarea>
+            </fieldset>
+
+            <!--Botón de envío-->
+            <br>
+            <input type="submit" value="Enviar">
+            <button type="reset" name="Reset">Restablecer</button>
+        </form>
+    </body>
+</html>

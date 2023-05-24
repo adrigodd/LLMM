@@ -1,0 +1,8 @@
+tipica pregunta de examen
+Que es un documento bien formado
+Tener prologo:xml
+tener cuerpo:abertura y cierre de etiquetas
+No usar caracteres reservados
+Sensible a mayusculas
+
+Documento valido

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listacursos[
+<!ELEMENT listacursos (curso)>
+<!ELEMENT curso (profesor,alumno,descripcion,hora,creditos)>
+<!ELEMENT profesor (#PCDATA)>
+<!ELEMENT  descripcion (#PCDATA)>
+<!ELEMENT hora (#PCDATA)>
+<!ELEMENT creditos (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT DNI  (#PCDATA)>
+<!ELEMENT apellido1 (#PCDATA)>
+<!ELEMENT apellido2  (#PCDATA)>
+<!ATTLIST curso
+id  (Primero) #REQUIRED>
+
+]>
+<listacursos>
+      <curso id="Primero">
+        <profesor>
+          <nombre>
+          Adrian
+          </nombre>
+          <DNI>
+          77022584T
+          </DNI>
+          <apellido1>
+          Sanchez
+          </apellido1>
+          <apellido2>
+          Nieto
+          </apellido2>
+        </profesor>
+        
+        
+        
+        <profesor>
+          <nombre>
+          Adrian
+          </nombre>
+          <DNI>
+          77022584T
+          </DNI>
+          <apellido1>
+          Sanchez
+          </apellido1>
+          <apellido2>
+           Nieto
+          </apellido2>
+        </profesor>
+                <alumno>
+                    <nombre>
+                    Gonzalo
+                    </nombre>
+                    <DNI>
+                    12345678E
+                    </DNI>
+                    <apellido1>
+                    Santiago
+                   </apellido1>
+                    <apellido2>
+                     Nieto
+                   </apellido2>
+                   </alumno>
+              <alumno>
+                    <nombre>
+                    Alvaro
+                    </nombre>
+                    <DNI>
+                    87654321L
+                    </DNI>
+                    <apellido1>
+                    Martin
+                   </apellido1>
+                    <apellido2>
+                    Sanchez
+                   </apellido2>
+             </alumno>
+             <descripcion>
+             buenas tardes
+             </descripcion>
+             <hora>
+             17:00
+             </hora>
+              <creditos>
+              Editado por adrian
+              </creditos>
+</curso>
+</listacursos>

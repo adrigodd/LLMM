@@ -1,0 +1,35 @@
+div{
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 1px black solid;
+   
+}
+div.a{
+    margin: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+    border: 1px black solid;
+    background-color: brown;
+    color: white;
+}
+div.b{
+    margin: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 1px black solid;
+    background-color: rgb(229, 148, 148);
+    color: black;
+}
+ul.a{
+    text-align: center;
+}

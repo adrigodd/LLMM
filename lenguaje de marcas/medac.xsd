@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+ <xs:element name="listamedac" type="tipolistamedac/>
+    <xs:complexType name ="listamedac">
+      <xs:sequence>
+        <xs:element name="ciclos" type="tipomedac" minOccurs="1" maxOccurs="unbounded"/>
+		<xs:element name="notas" type="tipomedac" minOccurs="1" maxOccurs="unbounded"/>
+      </xs:sequence>
+	  <complexType name="tipociclos">
+		<xs:sequence>
+			 <xs:element name="especialidad" type="tipoespecialidad" minOccurs="1" maxOccurs="unbounded"/>
+			 
+		</xs:sequence>
+	  </complexType>
+	  <complexType name="tipoespecialidad">
+		<xs:sequence>
+			<xs:element name="ciclo" type="tipociclo" minOccurs="1" maxOccurs="unbounded"/>
+			
+		</xs:sequence>
+		<xs:attribute name="nombre" type="tiponombre" use="required"/>
+			
+	  </complexType >
+	  <complexType name="tipociclo">
+	  <xs:sequence>
+			
+		</xs:sequence>
+			<xs:attribute name="id" type="tipoid" use="required"/>
+			<xs:attribute name="grado" type="tipogrado" use="required"/>
+			</complexType>
+	  <complexType name="tiponotas">
+	  <xs:sequence>
+			<xs:element name="modulo" type="tipomodulo"  minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	  </complexType>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

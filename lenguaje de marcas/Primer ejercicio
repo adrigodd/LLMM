@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Empresa>
+      <Marketing>
+        <Trabajadores>
+                  <Trabajador1>
+                      <Nombre>Adrian</Nombre>
+                      <Apellidos>Sánchez Nieto</Apellidos>
+                     <Edad>21</Edad>
+                     <Teléfono>6788824268</Teléfono>
+                     <ExperienciaLaboral>Burger King</ExperienciaLaboral>
+                      <SalarioMensual>1400€</SalarioMensual>
+                  </Trabajador1>
+                  <Trabajador2>
+                      <Nombre>Juan</Nombre>
+                      <Apellidos>Rodriguez Perez</Apellidos>
+                      <Edad>23</Edad>
+                      <Teléfono>691245487</Teléfono>
+                      <ExperienciaLaboral>Dependiente en supermercado</ExperienciaLaboral>
+                      <SalarioMensual>1600€</SalarioMensual>
+                  </Trabajador2>
+                  
+        </Trabajadores>
+      </Marketing>
+</Empresa>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Prueba de tablas</title>
+        <style>
+            table{
+                border: 1px solid black;
+                text-align: center;
+                margin:auto;
+            }
+            td,th{
+                border: 1px solid black;  
+            }
+            #segunda {
+                border:0px;   
+            }
+            #segunda th{
+                border:0px;   
+            }
+        </style>
+    </head>
+    <body>
+        <table>
+            <caption>Gastos del mes</caption>
+            <thead>
+                <tr>
+                    <th>Dia</th>
+                    <th>Gasoil</th>
+                    <th>Desayuno</th>
+                    <th>Comidas</th>
+                    <th>Extras</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>20€</td>
+                    <td>2€</td>
+                    <td>12€</td>
+                    <td>10€</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>0€</td>
+                    <td>2€</td>
+                    <td>0€</td>
+                    <td>5€</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="5">Mes de enero</td>
+                </tr>
+            </tfoot>
+        </table>
+        <table id="segunda"> 
+            <tr>
+                <th>Total del mes</th>
+                <th>100€</th>
+            </tr>
+        </table>
+    </body>
+</html>

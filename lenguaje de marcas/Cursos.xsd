@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="listacursos" type="tipolistacurso"/>
+    <xs:complexType name="tipolistacurso">
+      <xs:sequence>
+        <xs:element name="curso" type="tipocurso" minOccurs="1" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="tipocurso">
+      <xs:sequence>
+        <xs:element name="profesor" type="tipoprofesor" minOccurs="1" maxOccurs="unbounded"/>
+        <xs:element name="alumnos" type="tipoprofesor" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element name="contenido" type="tipocontenido" minOccurs="1" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="codigo" type="tipocodigo" use="required"/>
+    </xs:complexType>
+    <xs:complexType name="tipoprofesor">
+      <xs:sequence>
+        <xs:element name="dni" type="tipodni" minOccurs="1" />
+        <xs:element name="nombre" type="xs:string" minOccurs="1" />
+        <xs:element name="apellido1" type="xs:string" minOccurs="1" />
+        <xs:element name="apellido2" type="xs:string" minOccurs="0" />
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="tipocontenido">
+      <xs:sequence>
+        <xs:element name="descripcion" type="xs:string" minOccurs="1" />
+        <xs:element name="horas" type="tipohoras"  />
+        <xs:element name="creditos" type="xs:integer" minOccurs="1" />
+      </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="tipodni">
+      <xs:restriction base="xs:string">
+        <xs:pattern value="\d{8}([A-Z]|[a-z])"/>
+      </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="tipocodigo">
+      <xs:restriction base="xs:string">
+        <xs:pattern value="[A-Z][0-9]"/>
+      </xs:restriction>
+    </xs:simpleType>
+     <xs:simpleType name="tipohoras">
+      <xs:restriction base="xs:integer">
+        <xs:minExclusive value="0"/>
+        <xs:maxExclusive value="200"/>
+      </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

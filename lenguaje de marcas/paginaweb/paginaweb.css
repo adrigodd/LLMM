@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(255, 0, 0);
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+mark.a{
+background-color:grey ;
+color: white;
+}
+hr{
+    color: white;
+}
+td.a{
+    color: white;
+    
+}
+table{
+    font-weight: bold;
+    
+}
+mark.b{
+    background-color:grey ;
+    color: red;
+    }
+ul{
+color: green;
+}
+li{
+    color: black;
+    font-style: oblique;
+}
+mark.c{
+    background-color: grey;
+    font-weight:bold;
+}
+img{
+   
+    size: 200px;
+    width: 200px;
+    
+}
+div.e{
+    border-radius: 50px;
+    border: 3px solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(30, 0, 255);
+    box-shadow: 3px 3px 5px black;
+
+}
+div.f{
+    background-image: url("a.webp");
+
+    height: 300px;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}

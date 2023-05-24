@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+#Padre{
+    width: 70%;
+    border: solid 1px black;
+    margin: auto;
+    
+}
+#Padre>img{
+    display: block;
+    margin: auto;
+    width: 20%;
+}
+#hijo{
+    display: none;
+}

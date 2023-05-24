@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Formulario de ejemplo</title>
+    </head>
+    <body>
+        <form action="archivo.php" method="post">
+            <input type="image" src="medac.png" id="imagen" name="nombreimagen">
+            <fieldset>
+                <legend>Datos personales</legend>
+                <label for="nombre" accesskey="N">Nombre: &nbsp;</label>
+                <input type="text" id="nombre" name="nnombre" size="50" value="Inserta tu nombre">
+                <p>Edad: &nbsp;<input type="text" id="edad" name="eedad" size="5" accesskey="M">
+                Sexo: &nbsp;<input type="text" disabled size="5"></p>
+                <textarea readonly>Esto es de solo lectura</textarea>
+            </fieldset>
+            <fieldset>
+                <legend>Datos de interés</legend>
+                <p>Estás casado?
+                <input type="radio" id="csi" name="casado" tabindex="2">Si
+                <input type="radio" id="cno" name="casado" checked="checked">No
+                </p>
+                <textarea id="texto" name="ttexto" rows="3" cols="50">Introduce tus comentarios</textarea>
+                <p>Deportes que practicas: 
+                <input type="checkbox" id="selecciona" name="sselecciona" checked>Baloncesto
+                <input type="checkbox" id="selecciona" name="sselecciona">Fútbol
+                <input type="checkbox" id="selecciona" name="sselecciona" checked="checked">Tenis
+                </p>
+                Elige tu equipo favorito
+                <select name="eelige" id="elige" tabindex="1">
+                    <option label="Real Madrid" value="Madrid"></option>
+                    <option>Barcelona</option>
+                    <option label="AT.Madrid" value="atmadrid"></option>
+                </select>
+                ....
+                <select name="cciudad" id="ciudad">
+                    <optgroup label="Madrid">
+                        <option>Real Madrid</option>
+                        <option>At. Madrid</option>
+                    </optgroup>
+                    <optgroup label="Barcelona">
+                        <option>Barcelona F.C.</option>
+                        <option>Español</option>
+                    </optgroup>
+                    <optgroup label="Sevilla">
+                        <option>Sevilla F.C.</option>
+                        <option>Betis</option>
+                    </optgroup>
+                </select>
+            </fieldset>
+            <fieldset>
+                <legend>Ficheros a cargar</legend>
+                <label for="fichero1">Introduce el primer fichero</label>
+                <input type="file" id="fichero1" name="ffichero1"/>
+                <p>Introduce el segundo fichero <input type="file" id="fichero2" name="ffichero2"/>
+                </p>
+            </fieldset>
+            <br>
+            <input type="button" value="JAVA" onclick="alert('Esto es un ejemplo de java')">
+            <input type="submit">
+            <button name="envio" type="submit" value="enviar">Enviar</button>
+            <input type="reset" value="resetear"> 
+            <button name="res" type="reset" ></button>
+        </form>
+    </body>
+</html>

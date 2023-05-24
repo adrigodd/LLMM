@@ -1,0 +1,31 @@
+h1{
+    letter-spacing: 5px;
+    text-align: center;
+    color: blue;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    border: 1px black solid;
+    width: 350px;
+   border-bottom: 3px black solid;
+}
+tr{
+ 
+    border: 1px black solid;
+
+}
+th{
+color: white;
+background-color: green;
+}
+div{
+    margin-left: 600px;
+    margin-right: 600px;
+}
+tr:nth-child(even){
+    background-color: rgb(240, 240, 240);
+}
+tr:hover{
+background-color: yellow;
+}

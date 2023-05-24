@@ -1,0 +1,13 @@
+caption
+thead
+tbody
+tfoot
+tr y td|th
+col y colgroup
+<colgroup>
+	<col span="" style="bakcground-color:red" width="">
+	<col span="" width="">
+</colgroup>
+Empieza a contar desde la columna que dejó. Se aplica a la tabla entera.
+
+colspan y rowspan

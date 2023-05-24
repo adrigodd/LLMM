@@ -1,0 +1,60 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family:'Poppins';
+}
+
+table{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+#tabla2{
+   width: 500px;
+   margin:auto;
+}
+
+.Primo{
+    background-color: red;
+}
+tr{
+border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 250px;
+    }
+
+
+body{
+    background-color: rgb(227, 186, 255);
+    
+    
+}
+
+h1{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+h5{
+    font-style: italic;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+th{
+    background-color: rgb(207, 75, 255);
+}
+
+div.c{
+    float: left;
+    background-color: chartreuse;
+    width: 300px;
+    height: 200px;
+    border-radius: 50px;
+    border: 3px solid black;
+    }

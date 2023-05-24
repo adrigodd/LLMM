@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listacursos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Cursos.xsd">
+<curso codigo="C2">
+<profesor>
+<dni>44000000C</dni>
+<nombre>Luis</nombre>
+<apellido1>Robles</apellido1>
+<apellido2>García</apellido2>
+</profesor>
+<profesor>
+<dni>44280000C</dni>
+<nombre>Lola</nombre>
+<apellido1>Gómez</apellido1>
+</profesor>
+<alumnos>
+<dni>12345678a</dni>
+<nombre>Juan</nombre>
+<apellido1>Pérez</apellido1>
+<apellido2>López</apellido2>
+</alumnos>
+<contenido>
+<descripcion>Diseño Web</descripcion>
+<horas>50</horas>
+<creditos>25</creditos>
+</contenido>
+</curso>
+</listacursos>
